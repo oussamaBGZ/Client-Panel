@@ -8,5 +8,5 @@
 `
 
 `
-  yarn run dev
+  yarn start
 `
